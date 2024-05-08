@@ -18,7 +18,7 @@ Optimize the neural network model.
 
 
 
-#### Please use the following nbviewer version link to view the complete graphic results along with required coding: https: https://nbviewer.org/github/RandyS456/Module-13-Challenge-Venture-Funding-with-Deep-Learning/blob/main/Colab_venture_funding_with_deep_learning.ipynb
+#### Please use the following nbviewer version link to view the complete graphic results along with required coding: https://nbviewer.org/github/RandyS456/Module-13-Challenge-Venture-Funding-with-Deep-Learning/blob/main/Colab_venture_funding_with_deep_learning.ipynb
 
 
 
