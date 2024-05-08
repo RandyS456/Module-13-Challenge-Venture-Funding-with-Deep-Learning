@@ -18,6 +18,7 @@ Optimize the neural network model.
 
 
 
+#### Please use the following nbviewer version link to view the complete graphic results along with required coding: https:
 
 
 
